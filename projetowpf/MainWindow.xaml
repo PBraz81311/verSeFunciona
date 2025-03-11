@@ -9,6 +9,7 @@
     <Grid>
         <TextBox x:Name="tb1" HorizontalAlignment="Left" Margin="280,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBlock HorizontalAlignment="Left" Margin="234,64,0,0" TextWrapping="Wrap" Text="valor:" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="340,196,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
