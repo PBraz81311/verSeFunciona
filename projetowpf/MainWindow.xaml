@@ -9,7 +9,9 @@
     <Grid>
         <TextBox x:Name="tb1" HorizontalAlignment="Left" Margin="280,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBlock HorizontalAlignment="Left" Margin="234,64,0,0" TextWrapping="Wrap" Text="valor:" VerticalAlignment="Top"/>
-        <TextBlock x:Name="Lbel2" HorizontalAlignment="Left" Margin="220,271,0,0" TextWrapping="Wrap" Text="Aqui esta escrito uma coisa" VerticalAlignment="Top"/>
+        <TextBox x:Name="resultado" HorizontalAlignment="Left" Margin="280,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="199,288,0,0" TextWrapping="Wrap" Text="resultado" VerticalAlignment="Top"/>
+        <Button Content="isto nao faz nada" HorizontalAlignment="Left" Margin="626,73,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
