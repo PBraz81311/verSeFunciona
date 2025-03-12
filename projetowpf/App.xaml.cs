@@ -10,5 +10,4 @@ namespace projetowpf;
 public partial class App : Application
 {
 }
-//teste
-//ervbe
+//kj43bgorji
