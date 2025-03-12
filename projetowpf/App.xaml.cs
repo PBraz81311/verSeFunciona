@@ -10,7 +10,5 @@ namespace projetowpf;
 public partial class App : Application
 {
 }
-//jionoinikjn jjknoko,mijubcerto
-//hbink
-//buiibbnoimk
-//bibihbiu
+//eiurbgubo
+//rejkgoin4kw
