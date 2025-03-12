@@ -11,4 +11,6 @@ public partial class App : Application
 {
 }
 //jionoinikjn jjknoko,mijubcerto
-
+//hbink
+//buiibbnoimk
+//bibihbiu
