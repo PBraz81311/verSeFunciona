@@ -9,6 +9,8 @@ namespace projetowpf;
 /// </summary>
 public partial class App : Application
 {
+
 }
 //eiurbgubo
 //rejkgoin4kw
+//kj43bgorji
