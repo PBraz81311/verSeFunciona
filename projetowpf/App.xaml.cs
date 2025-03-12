@@ -10,5 +10,5 @@ namespace projetowpf;
 public partial class App : Application
 {
 }
-//jionoinikm
+//jionoinikjn jjknoko,mijubcerto
 
